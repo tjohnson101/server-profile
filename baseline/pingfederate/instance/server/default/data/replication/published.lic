@@ -1,0 +1,14 @@
+ID=00466600
+WSTrustSTS=true
+OAuth=true
+SaasProvisioning=true
+Product=PingFederate
+Version=11.0
+EnforcementType=3
+Tier=Free
+IssueDate=2023-03-25
+ExpirationDate=2024-03-23
+DeploymentMethod=Traditional
+Organization=PathMaker Group
+SignCode=FF0F
+Signature=302D021458F241C8452004C5BF6C1507883D0E37CE01141602150093284B16BDEF6FD72077E9063ADBC158667884BD
